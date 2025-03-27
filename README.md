@@ -15,6 +15,6 @@
 - Desarrollo web con React y Node.js  
 
 ## Contacto  
-- 📧 [Correo: isimariaponce@hotmail.com]
+- 📧 [Correo](isimariaponce@hotmail.com)
 - 💼 [LinkedIn](https://mx.linkedin.com/in/maria-galaviz)
 - 
