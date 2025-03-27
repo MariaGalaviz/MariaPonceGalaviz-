@@ -1,9 +1,9 @@
-# 📄 Tu Nombre 
-![Foto de perfil](https://ejemplo.com/imagen.jpg)
+# Maria Guadalupe Ponce Galaviz 
+![Foto de perfil](https://github.com/MariaGalaviz/MariaPonceGalaviz-/blob/713a44304db4ac64c17288834029c3aa3fd0ac31/IMG_20250326_184028.jpg)
 
 **Ingeniero en Sistemas de la Información**  
 
-📧 tuemail@example.com | 📞 +52 123 456 7890 | 🌐 [LinkedIn](https://linkedin.com/in/tuusuario)  
+📧 isimariaponce@hotmail.com | 📞 +52 662 126 6695 | 🌐 [LinkedIn](https://mx.linkedin.com/in/maria-galaviz)  
 
 ---
 
@@ -14,8 +14,8 @@ Profesional con experiencia en desarrollo de software, análisis de sistemas y g
 
 ## 💼 Experiencia Laboral  
 
-### **Empresa ABC - Desarrollador de Software**  
-📅 2022 - Actualidad  
+### **Cadena comercial oxxo S.A. de C.V. - Ayudante general**  
+📅 2023 - Actualidad  
 - Desarrollo de aplicaciones web con HTML, CSS y JavaScript.  
 - Implementación de bases de datos SQL y NoSQL.  
 
