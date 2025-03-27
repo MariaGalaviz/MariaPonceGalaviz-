@@ -1,4 +1,5 @@
 # 📄 Tu Nombre 
+![Foto de perfil](https://ejemplo.com/imagen.jpg)
 
 **Ingeniero en Sistemas de la Información**  
 
