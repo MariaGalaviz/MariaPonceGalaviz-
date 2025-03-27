@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #0073b1;
+    background-color: #d7bde2;
     color: white;
     padding: 20px;
 }
@@ -37,7 +37,7 @@ ul {
 }
 
 footer {
-    background: #ebdef0;
+    background: #333;
     color: white;
     padding: 10px;
 }
